@@ -7,3 +7,6 @@ scto@sendemail.monster
 ### 最新网址:
 
 https://scto04.xyz
+
+### 面板升级
+面板已经升级, 请重新复制订阅地址订阅
