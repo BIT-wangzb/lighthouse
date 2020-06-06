@@ -9,4 +9,4 @@ scto@sendemail.monster
 https://scto04.xyz
 
 ### 面板升级
-面板已经升级, 请重新复制订阅地址订阅
+面板已经升级, 请进入官网复制新的订阅地址重新订阅
